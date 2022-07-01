@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZJ+SqQVtrHeAqtNTnIu8DSHHBw0+u/RO9GB6Bww0k4xoCrBBIwrIn6D7twYAJyGs98+aECcEeo0ex5yC5Hpi5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eureq\\source\\repos\\Binance\\Binance\\Binance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eureq\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\eureq\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\eureq\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
+    "C:\\Users\\eureq\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
