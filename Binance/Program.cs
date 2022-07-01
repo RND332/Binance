@@ -12,8 +12,7 @@ public class Program
         //var bot = new TelegramBot();
         //Console.ReadKey();
 
-        var client = new CurrencyClient("EYfC0vW3DqYUYcaX", "%~@az^EJ#r_l.qz!c*VdAhv6#+n%~L!H");
-        Console.WriteLine(client.GetDepth().Result);
+        Console.WriteLine(CurrencyClient.GetPrices("BTC").Result);
     }
 }
 class TelegramBot 
